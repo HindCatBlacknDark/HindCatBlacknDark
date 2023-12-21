@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Interpretability in Deep Learning techniques for images
-- 🌱 I’m currently learning machine learning tools for image processing, 
-- 👯 I’m looking to collaborate on ..
+- 🌱 I’m currently learning machine learning tools for image processing and analysis, deep learning for decision making, applications in real datasets (medical and/or agricultural)
+- 👯 I’m looking to collaborate on image processing, image segmenation for feature extraction, multi-modal learning, transfer learning, deep learning, transformers, programming in R/Python/MATLAB for machine learning/computer vision 
 - 📫 How to reach me: [Hind Raki](mailto:hind.raki.official@gmail.com)
 - 😄 Pronouns: She/Her 👧
 - ⚡ Fun fact: I am the mother of Cats 🐈‍⬛
